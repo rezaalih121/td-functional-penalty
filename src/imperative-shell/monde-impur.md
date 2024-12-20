@@ -1,0 +1,3 @@
+# Monde impur
+
+Ici on fait la communication avec le réseau, l'utilisateur...
