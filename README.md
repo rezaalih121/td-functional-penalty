@@ -1,5 +1,5 @@
-# Calculus Ratiocinator
-
+# TD Functional Penalty
+by Reza Ali IRANNEJAD
 Initiation à la __Programmation Fonctionnelle__ avec __TypeScript__ et l'environnement d'exécution __Bun__ (<https://bun.sh>).
 
 ## Installation des dépendances
